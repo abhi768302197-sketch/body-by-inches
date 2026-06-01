@@ -1,0 +1,6 @@
+{
+  "name": "Body By Inches",
+  "description": "Premium modern gym and fitness center inspired by clean minimalist aesthetics. Expert trainers, custom classes, and tailored membership plans in Sector 21A, Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
